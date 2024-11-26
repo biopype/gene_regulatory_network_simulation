@@ -51,7 +51,7 @@ The network was visualized to integrate multiple interaction metrics such as the
 - **BRCA1** appeared as a highly connected node, acting as a hub within the network.
 
 ## Biological Implications
-- Proteins with higher coexpression levels (toward the **yellow spectrum**) are likely functionally related or part of the same regulatory pathway.
+- Proteins with higher coexpression levels (toward the **yellow spectrum**) are functionally related.
 - Hub proteins like **BRCA1** play critical roles in maintaining network stability and mediating significant interactions.
 
 ## Conclusion
