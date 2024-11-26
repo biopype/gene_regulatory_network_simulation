@@ -46,7 +46,8 @@ The network was visualized to integrate multiple interaction metrics such as the
 #### Fig 4: Enhanced protein-protein interaction network incorporating coexpression and gene fusion
 
 ## Key Observations
-- Proteins like **BRCA1** and **BARD1** exhibited strong coexpression, indicating tight regulatory interactions.
+- According to the dynamic protein network model, **BRCA1** stabilizes at relatively high concentration, indicating its central role as a hub protein with significant regulatory influence.
+- In network visualization, Proteins like **BRCA1** and **BARD1** exhibited strong coexpression, indicating tight regulatory interactions.
 - Proteins like **BABAM1** and **UMC1** showed weaker coexpression.
 - **BRCA1** appeared as a highly connected node, acting as a hub within the network.
 
